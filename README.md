@@ -92,3 +92,5 @@ To demonstrate how to integrate a public API, process the fetched data, and crea
 ##output
 <img width="1532" height="873" alt="Image" src="https://github.com/user-attachments/assets/0a1aea61-ac78-40ec-983b-5568ceb79cd5" />
 
+<img width="1578" height="922" alt="Image" src="https://github.com/user-attachments/assets/536fca28-22b4-4fc1-ae25-af3f502c3556" />
+
