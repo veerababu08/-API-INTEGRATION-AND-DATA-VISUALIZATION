@@ -11,6 +11,8 @@
 
 **Duration:**  July 25th, 2025 to August 25th, 2025.  
 
+MENTOR: NEELA SANTOSH
+
 ---
 
 ## Overview of the Project
