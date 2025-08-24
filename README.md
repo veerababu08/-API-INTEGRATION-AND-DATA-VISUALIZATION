@@ -89,3 +89,6 @@ To demonstrate how to integrate a public API, process the fetched data, and crea
 
 ---
 
+##output
+<img width="1532" height="873" alt="Image" src="https://github.com/user-attachments/assets/0a1aea61-ac78-40ec-983b-5568ceb79cd5" />
+
